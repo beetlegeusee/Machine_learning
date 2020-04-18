@@ -6,4 +6,6 @@ first file added = friends is . it is a jupyter notebook. competition link:https
 
 
 face detection and snapshot were seperate codes. face detection was taken from the website : https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
+
+i have made a slideshow about basic working of artificial neural networks here:https://www.slideshare.net/aashnavaid/basic-artificial-neural-networks ; this is a slideshare link.
  
