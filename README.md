@@ -13,6 +13,6 @@ this repository will be having codes related to the challanges i participate in 
    and the wav file was taken from website:https://www.voiptroubleshooter.com/open_speech/american.html
    
 5.understood and took down  a web scrapping program from https://github.com/adashofdata/nlp-in-python-tutorial 
-  it has usage of beautiful soup, request and pickle packages.
+  it has usage of beautiful soup, request and pickle packages.  the files with this code are 'data cleaning and exploratory analysis'.
 
  
